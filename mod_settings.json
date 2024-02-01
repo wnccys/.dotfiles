@@ -25,21 +25,21 @@
     "symbols.hidesExplorerArrows": false,
     "breadcrumbs.enabled": false,
     "background.enabled": true,
-    // "background.fullscreen": {
-          // "images": [
-          //   "C:\Users\krust\Downloads\Downloads\img\420137619_691238996534388_2024513075449208763_n.jpg"
-          // ],
-          // "opacity": 0.95,
-          // "size": "cover",
-          // "position": "center center", // set custom position
-          // "interval": 0
-        // },
+    "background.fullscreen": {
+          "images": [
+            "file:///C:/Users/krust/Downloads/Downloads/img/420137619_691238996534388_2024513075449208763_n-transformed.jpeg"
+          ],
+          "opacity": 0.95,
+          "size": "cover",
+          "position": "center center", // set custom position
+          "interval": 0
+        },
 
-    //"window.titleBarStyle": "native",
-    //"apc.electron": {
-    //    "titleBarStyle": "hidden",
-    //    "frame": false
-    //},
+    "window.titleBarStyle": "custom",
+    "apc.electron": {
+       "titleBarStyle": "hidden",
+       "frame": false
+    },
     "apc.font.family": "Cascadia Mono",
     "apc.header": {
         "height": 29
@@ -81,7 +81,6 @@
     "git.ignoreRebaseWarning": true,
     "git.confirmSync": false,
     "workbench.editor.empty.hint": "hidden",
-    "window.titleBarStyle": "custom",
     "workbench.colorTheme": "zhxo'yll",
     "editor.linkedEditing": true,
     "liveServer.settings.donotVerifyTags": true,
