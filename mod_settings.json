@@ -27,7 +27,6 @@
     "background.enabled": true,
     "background.fullscreen": {
           "images": [
-            "file:///C:/Users/krust/Downloads/Downloads/img/420137619_691238996534388_2024513075449208763_n-transformed.jpeg"
           ],
           "opacity": 0.95,
           "size": "cover",
@@ -55,34 +54,7 @@
         "body > div.file-icons-enabled.enable-motion.monaco-workbench.windows.chromium.nopanel.noauxiliarybar.no-activity-bar.sidebar-right.vs-dark.mvllow-rose-pine-themes-rose-pine-color-theme-json > div.monaco-grid-view > div > div > div.monaco-scrollable-element > div.split-view-container > div:nth-child(3) > div > div > div.monaco-scrollable-element > div.split-view-container > div.split-view-view.visible > div > div > div.monaco-scrollable-element > div.split-view-container > div.split-view-view.visible > div > div > div.sash-container > div:nth-child(2)": "border-left: 1px solid rgba(255,255,255,0.04)"
     },
 
-    "ruby.codeCompletion": "rcodetools",
-    "ruby.intellisense": "rubyLocate",
-    "explorer.confirmDelete": false,
-    "explorer.confirmDragAndDrop": false,
-    "code-runner.clearPreviousOutput": true,
-    "code-runner.runInTerminal": true,
-    "code-runner.showExecutionMessage": false,
-    "liveServer.settings.port": 3000,
-    "liveServer.settings.donotShowInfoMsg": true,
-    "debug.onTaskErrors": "debugAnyway",
-    "git.openRepositoryInParentFolders": "never",
-    "workbench.editorAssociations": {
-        "*.db": "sqlite-viewer.option"
-    },
-    
-    "[erb]": {
-        "editor.defaultFormatter": "aliariff.vscode-erb-beautify",
-        "editor.formatOnSave": true
-      },
-      "files.associations": {
-        "*.html.erb": "html"
-    },
-
-    "git.ignoreRebaseWarning": true,
-    "git.confirmSync": false,
     "workbench.editor.empty.hint": "hidden",
     "workbench.colorTheme": "zhxo'yll",
-    "editor.linkedEditing": true,
-    "liveServer.settings.donotVerifyTags": true,
     "workbench.productIconTheme": "fluent-icons"
 }
