@@ -11,8 +11,8 @@ vim.opt.rtp:prepend(vim.env.LAZY or lazypath)
 require("lazy").setup({
   spec = {
     -- add LazyVim and import its plugins
-    { "LazyVim/LazyVim",       import = "lazyvim.plugins" },
-    { 'wakatime/vim-wakatime', lazy = false },
+    { "LazyVim/LazyVim", import = "lazyvim.plugins" },
+    { "wakatime/vim-wakatime", lazy = false },
     { "rebelot/kanagawa.nvim", lazy = false },
     -- import any extras modules here
     -- { import = "lazyvim.plugins.extras.lang.typescript" },
