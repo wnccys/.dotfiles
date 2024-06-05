@@ -65,7 +65,14 @@
         "body > div.file-icons-enabled.enable-motion.monaco-workbench.windows.chromium.nopanel.noauxiliarybar.no-activity-bar.sidebar-right.vs-dark.mvllow-rose-pine-themes-rose-pine-color-theme-json > div.monaco-grid-view > div > div > div.monaco-scrollable-element > div.split-view-container > div:nth-child(3) > div > div > div.monaco-scrollable-element > div.split-view-container > div.split-view-view.visible > div > div > div.monaco-scrollable-element > div.split-view-container > div.split-view-view.visible > div > div > div.sash-container > div:nth-child(2)": "border-left: 1px solid rgba(255,255,255,0.04)"
     },
     "terminal.integrated.fontFamily": "FiraCode Nerd Font",
-    "workbench.colorTheme": "Min Dark"
+    "workbench.colorTheme": "Min Dark",
+    "workbench.productIconTheme": "fluent-icons",
+    "editor.hover.enabled": true,
+    "vim.useCtrlKeys": true,
+    "vim.handleKeys": {
+        "<C-k>": false,
+        "<C-i>": false
+    }
 }
 
 // Extensions 
