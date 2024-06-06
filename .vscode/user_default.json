@@ -1,5 +1,6 @@
 {
-  "workbench.iconTheme": "symbols",
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.iconTheme": "symbols",
     "workbench.sideBar.location": "right",
     "window.commandCenter": false,
     "workbench.statusBar.visible": false,
