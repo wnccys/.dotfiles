@@ -34,7 +34,7 @@
     "background.enabled": true,
     "background.fullscreen": {
       "images": [
-        "file:///C:/Users/krust/Downloads/Downloads/img/opium.png"
+        ""
       ],
       "opacity": 0.93,
       "size": "cover",
