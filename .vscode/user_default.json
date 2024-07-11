@@ -58,7 +58,7 @@
     "apc.stylesheet": {
         "html": "border: 1px solid #202023;",
         ".title-label > h2": "display: none",
-        ".pane-body": "padding: 8px",
+        ".pane-body": "padding: 2px",
         ".pane-header": "padding: 0 8px",
         ".monaco-grid-branch-node": "top: 0 !important",
         ".editor-actions": "display: none !important",
