@@ -1,7 +1,7 @@
 -- bootstrap lazy.nvim, LazyVim and your plugins
 require("config.lazy")
 vim.o.clipboard = "unnamedplus"
-vim.cmd("colorscheme kanagawa-wave")
+vim.cmd("colorscheme kanagawa-dragon")
 
 local function show_all_lsp_messages()
   local current_line = vim.fn.line(".") - 1
